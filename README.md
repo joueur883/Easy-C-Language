@@ -10,4 +10,4 @@ It’s perfect for learning how to code without getting overwhelmed by the class
 The **Easy C Programming Language Converter** online on PenguinMod **only converts the Easy C code to the C correct code**, but **don't compile it**. **You will need to use gcc to compile it manually before you can run it, or use a C code runner online.**
 
 
-📘 Start with the `Basics.md` file to dive into your first Easy C lines and understand how it all works!
+📘 Start with the `Lesson 1.md` file to dive into your first Easy C lines and understand how it all works!
