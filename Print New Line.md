@@ -1,4 +1,4 @@
-**To set a new line after printing your text, you can just add ** `/n` ** after the print.**
+**To set a new line after printing your text, you can just add **`/n`** after the print.**
 
 **Example:**
 
