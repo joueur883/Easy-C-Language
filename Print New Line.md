@@ -3,4 +3,5 @@
 **Example:**
 
 print("This text is on line 1.")/n
+
 print("This text is on a new line.")
