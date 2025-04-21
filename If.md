@@ -32,3 +32,4 @@ print("No, it's Linux.")\
 else\
 print("Yes, it is Linux!")
 
+I think you understant how it works now!
