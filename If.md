@@ -27,7 +27,7 @@ Another example:
 var str OS\
 input(s"Which Operating System is better?", OS)
 
-if OS != Linux\
+if OS != "Linux"\
 print("No, it's Linux.")\
 else\
 print("Yes, it is Linux!")
