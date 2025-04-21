@@ -11,7 +11,7 @@ If, like in all programming language, is here to execute code if the condition i
 `&&` is And\
 `||` is Or
 
-**Examples and how to use:**
+**Examples of use:**
 
 var int Number\
 input(n"Choose a number between 1 and 5.", Number)
