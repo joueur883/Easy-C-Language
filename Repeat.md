@@ -8,4 +8,5 @@ end
 
 **In this examples, the loop will be repeated 5 times, and add to the temp variable "i" 2 every time the loop is executed 1 time, and "i" starts at the value of 1.**
 
-⚠️**WARNING**⚠️
+⚠️**WARNING**⚠️\
+The repeat function **is actually as a beta feature, and may not work correctly.**
