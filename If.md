@@ -7,5 +7,20 @@ If, like in all programming language, is here to execute code if the condition i
 `>` is >\
 `<` is <\
 `>=` is > or =\
-`<=` is < or =
+`<=` is < or =\
+`&&` is And\
+`||` is Or
+
+**Examples and how to use:**
+
+var int Number\
+input(n"Choose a number between 1 and 5.", Number)
+
+if Number == 3\
+print("Correct!")\
+else\
+print("Incorrect!")\
+end
+
+Another example:
 
