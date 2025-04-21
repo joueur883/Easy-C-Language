@@ -2,10 +2,8 @@
 
 **Example:**
 
-var MyNumber = 50
-
-var MyChar = 'L'
-
+var MyNumber = 50\
+var MyChar = 'L'\
 var MyString = "This is a string in Easy C"
 
 **IMPORTANT!**
