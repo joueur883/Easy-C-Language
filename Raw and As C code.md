@@ -14,4 +14,4 @@ printf("This is C code in Easy C!")\
 end
 
 ⚠️**Warning!**\
-If you use raw() ou As C code, you will need to add the libraries manually if there is no line of code in Easy C that require the needed library.
+If you use raw() or As C code, you will need to add the libraries manually if there is no line of code in Easy C that require the needed library.
