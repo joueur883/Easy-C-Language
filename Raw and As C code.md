@@ -8,7 +8,7 @@ raw(printf("This is a print in C.")
 
 **Another example:**
 
-As C code
+As C code\
 #include <stdio.h>\
 printf("This is C code in Easy C!")\
 end
