@@ -4,8 +4,8 @@ Normally, in the **C Programming Language**, to print "Hello World" in the conso
 
 #include <stdio.h>
 
-*int main() {
-  printf("Hello World!}
+*int main() {\
+  printf("Hello World!}\
 }*
 
 but in the **Easy C Programming Language**, you only have to write
